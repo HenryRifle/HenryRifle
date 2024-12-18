@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/henry-kern-739a94252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Henry kern" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21902147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Henryrifle" height="30" width="40" /></a>
-<a href="https://fb.com/Henry Kern jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="henry kern jr" height="30" width="40" /></a>
+<a href="https://fb.com/Henry Kern Jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="henry kern jr" height="30" width="40" /></a>
 <a href="https://instagram.com/henrykern_jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henrykern_jr" height="30" width="40" /></a>
 </p>
 
