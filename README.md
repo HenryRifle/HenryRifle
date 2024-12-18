@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henry Kern</h1>
 <h3 align="center">A passionate software developer at Rutgers University</h3>
-<img align="right" alt="Coding" width="300"src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryrifle&label=Profile%20views&color=0e75b6&style=flat" alt="henryrifle" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryrifle" alt="henryrifle" /></a> </p>
 
 - 🌱 I’m currently learning **Big Data**
 
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryrifle&show_icons=true&theme=dark&locale=en" alt="henryrifle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryrifle&theme=dark" alt="henryrifle" /></p>
+
