@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Henry Kern</h1>
+<img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" >
 <h3 align="center">A passionate software developer at Rutgers University</h3>
 
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryrifle&label=Profile%20views&color=0e75b6&style=flat" alt="henryrifle" /> </p>
+
 
 - 🌱 I’m currently learning **Big Data**
 
 - 📫 How to reach me **henrykernjr@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryrifle&label=Profile%20views&color=0e75b6&style=flat" alt="henryrifle" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
